@@ -15,7 +15,6 @@
      * A simple Sony Camera local search client based on SSDP
      * 
      * @see: http://www.w3.org/TR/discovery-api/
-     * 
      * @constructor
      */
     function SonyDeviceSearch(){
